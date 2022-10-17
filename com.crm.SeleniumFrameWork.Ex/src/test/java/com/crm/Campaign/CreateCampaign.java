@@ -71,6 +71,7 @@ public class CreateCampaign extends BaseClass {
 			
 			if(Actdata.contains(data1)) {
 				System.out.println("Campaign is created");
+				System.out.println("open");
 			}
 			else
 			{
